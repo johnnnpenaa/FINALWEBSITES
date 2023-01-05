@@ -12,7 +12,7 @@ a{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url(img/forwebsite.jpg);
+    background: url("forwebsite.jpg");
     background-size: cover;
     
 }
